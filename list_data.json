@@ -1,0 +1,28 @@
+{
+	"boba": [
+		{
+			"Shop": "Any boba shops",
+			"Location": "Taiwan",
+			"Rating": "5",
+			"Price": "$2"
+		},
+		{
+			"Shop": "TP Tea",
+			"Location": "Telegraph Ave, Berkeley",
+			"Rating": "3",
+			"Price": "$6"
+		},
+		{
+			"Shop": "Pleantea",
+			"Location": "Durant Ave, Berkeley",
+			"Rating": "3",
+			"Price": "$5"
+		},
+		{
+			"Shop": "Asha Teas",
+			"Location": "University Ave, Berkeley",
+			"Rating": "2",
+			"Price": "$5.5"
+		}
+	]
+}
